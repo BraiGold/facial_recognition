@@ -1,3 +1,14 @@
+# Reconocimiento facial
+
+Trabajo practico de metodos numericos:
+
+Se implemento un sistema de reconocimiento facial utilizando regresion lineal y PCA para reduccion de dimensiones.
+Se implemento en python usando librerias de algebra lineal y en c++ sin librerias (utilizando diferentes metodos numericos).
+
+Se analizaron y compararon los diferentes metodos (con y sin reduccion de dimension) , diferentes implementaciones, y diferentes metodos para buscar autovalores, entre otros factores.
+para mas informacion ver el [INFORME](https://gitlab.com/atun/facial-recognition-metodosnumericos/blob/master/tp2-metnum.pdf)
+
+
 Para compilar el tp, desde la carpeta src:
 
 python3 makefile.py
