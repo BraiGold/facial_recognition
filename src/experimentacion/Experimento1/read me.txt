@@ -1,0 +1,3 @@
+Para este experimento es necesario descomentar del main
+las lineas que imprimen los autovalores (1071 en adelante, esta señalizado).
+Para los experimentos de tiempos es necesario que esas lineas esten comentadas.

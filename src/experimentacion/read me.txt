@@ -1,0 +1,2 @@
+El experimento 1 puede correrse desde el directorio donde en el que esta.
+Para el resto de los experimentos es necesario copiar los archivos .py en /src para correrlos.
